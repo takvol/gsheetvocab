@@ -1,0 +1,10 @@
+/*
+prevent duplicates
+
+Oxford Dictionary definition
+
+change get to post
+
+make it work inside iframe
+
+*/
